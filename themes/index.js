@@ -443,7 +443,6 @@ export const themes = {
     icon_color: "FFD369",
     border_color: "EEEEEE",
     bg_color: "00000000",
-    border_radius: "10",
   },
   personal_theme_dark: {
     title_color: "FFD369",
@@ -451,7 +450,6 @@ export const themes = {
     icon_color: "FFD369",
     border_color: "393E46",
     bg_color: "00000000",
-    border_radius: "10",
   },
 };
 
