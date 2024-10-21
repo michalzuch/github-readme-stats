@@ -462,6 +462,27 @@ export const themes = {
     icon_color: "ffffff",
     bg_color: "35,4158d0,c850c0,ffcc70",
   },
+    og_transparent: {
+    title_color: "2f80ed",
+    icon_color: "4c71f2",
+    text_color: "afafaf",
+    bg_color: "00000000",
+    border_color: "e4e2e2",
+  },
+  personal_theme_light: {
+    title_color: "FFD369",
+    text_color: "222831",
+    icon_color: "FFD369",
+    border_color: "EEEEEE",
+    bg_color: "00000000",
+  },
+  personal_theme_dark: {
+    title_color: "FFD369",
+    text_color: "EEEEEE",
+    icon_color: "FFD369",
+    border_color: "393E46",
+    bg_color: "00000000",
+  },
 };
 
 export default themes;
